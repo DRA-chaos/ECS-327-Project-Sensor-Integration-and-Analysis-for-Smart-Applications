@@ -1,0 +1,1 @@
+# ECS---327-Project-Sensor-Integration-and-Analysis-for-Smart-Applications
