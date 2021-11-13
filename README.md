@@ -1,4 +1,4 @@
-# ECS---327-Project-Sensor-Integration-and-Analysis-for-Smart-Applications
+# ECS-327-Project-Sensor-Integration-and-Analysis-for-Smart-Applications
 
 This repository hosts the  project corresponding to the Lab Course ECS 327 of the fifth semester that was carried out under the esteemed guidance of Dr Mitradip Bhattacharjee, Department of Electrical Engineering and Computer Science, IISER Bhopal.
 
