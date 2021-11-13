@@ -18,7 +18,6 @@ Following are some snapshots of the prototype:
 
 
 
-
 ![image](https://user-images.githubusercontent.com/68393451/141513422-26eb2c3e-237c-47a2-9ab4-687d4ad8b94c.png)
 
 
@@ -29,6 +28,10 @@ Following are some snapshots of the prototype:
 
 
 The code for this set-up can be found [here](https://github.com/DRA-chaos/ECS---327-Project-Sensor-Integration-and-Analysis-for-Smart-Applications/tree/main/TempHumiditySensor_Rita).
+
+The documentation of this project can be accessed [here](https://github.com/DRA-chaos/ECS---327-Project-Sensor-Integration-and-Analysis-for-Smart-Applications/blob/main/EECS%20Lab%20Report.pdf).
+
+The Google drive link containing the video explanation of the project can be found [here](https://drive.google.com/file/d/1dmOvS7z9vOBvcTgZccp-ESCLYhBtFoC2/view?usp=sharing)
 
 Enjoy Exploring !
 Rita Chaos
